@@ -1,0 +1,74 @@
+﻿  menu.cpp
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,83): warning C4244:         with
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,83): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,83): warning C4244:             T=int
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,83): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,83): warning C4244:         and
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,83): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,83): warning C4244:             T=float
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,83): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,71): warning C4244:         with
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,71): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,71): warning C4244:             T=int
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,71): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,71): warning C4244:         and
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,71): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,71): warning C4244:             T=float
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(45,71): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,83): warning C4244:         with
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,83): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,83): warning C4244:             T=int
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,83): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,83): warning C4244:         and
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,83): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,83): warning C4244:             T=float
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,83): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,71): warning C4244:         with
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,71): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,71): warning C4244:             T=int
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,71): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,71): warning C4244:         and
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,71): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,71): warning C4244:             T=float
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(47,71): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,69): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,69): warning C4244:         with
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,69): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,69): warning C4244:             T=int
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,69): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,69): warning C4244:         and
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,69): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,69): warning C4244:             T=float
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,69): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,57): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,57): warning C4244:         with
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,57): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,57): warning C4244:             T=int
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,57): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,57): warning C4244:         and
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,57): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,57): warning C4244:             T=float
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(66,57): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,74): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,74): warning C4244:         with
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,74): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,74): warning C4244:             T=int
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,74): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,74): warning C4244:         and
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,74): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,74): warning C4244:             T=float
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,74): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,62): warning C4244:         with
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,62): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,62): warning C4244:             T=int
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,62): warning C4244:         ]
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,62): warning C4244:         and
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,62): warning C4244:         [
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,62): warning C4244:             T=float
+C:\Users\spesi\OneDrive\Рабочий стол\LTgame\menu.cpp(69,62): warning C4244:         ]
+  LTgame.vcxproj -> C:\Users\spesi\OneDrive\Рабочий стол\LTgame\Debug\LTgame.exe
